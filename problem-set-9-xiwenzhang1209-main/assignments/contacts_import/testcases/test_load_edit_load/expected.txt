@@ -1,0 +1,66 @@
+Welcome to the contacts app!
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+6. Import contacts from file
+What would you like to do?
+Importing contacts from data.json
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+6. Import contacts from file
+What would you like to do?
+Contact name?
+Contact "Bat Man":
+Phone numbers:
+123-456-7890
+987-654-3210
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+6. Import contacts from file
+What would you like to do?
+Contact name?
+Deleted Bat Man
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+6. Import contacts from file
+What would you like to do?
+Invalid choice, try again
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+6. Import contacts from file
+What would you like to do?
+Importing contacts from data.json
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+6. Import contacts from file
+What would you like to do?
+Contact name?
+Contact "Bat Man":
+Phone numbers:
+123-456-7890
+987-654-3210
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+6. Import contacts from file
+What would you like to do?
+Bye!

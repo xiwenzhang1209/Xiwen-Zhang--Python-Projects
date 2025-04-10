@@ -1,0 +1,75 @@
+Welcome to the contacts app!
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+6. Import contacts from file
+What would you like to do?
+Contact name?
+Phone number?
+Added number: 572-198-1931 for Bat Man
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+6. Import contacts from file
+What would you like to do?
+Contact name?
+Phone number?
+Added number: 829-021-1092 for Sponge Bob
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+6. Import contacts from file
+What would you like to do?
+Importing contacts from data.json
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+6. Import contacts from file
+What would you like to do?
+Contact name?
+Contact "Bat Man":
+Phone numbers:
+123-456-7890
+572-198-1931
+987-654-3210
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+6. Import contacts from file
+What would you like to do?
+Contact name?
+Contact "Sponge Bob":
+Phone numbers:
+350-103-1495
+829-021-1092
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+6. Import contacts from file
+What would you like to do?
+Contact name?
+Contact "Peppa Pig":
+Phone numbers:
+350-103-1495
+386-194-1919
+928-389-1938
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+6. Import contacts from file
+What would you like to do?
+Bye!

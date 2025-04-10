@@ -1,0 +1,26 @@
+[
+    {
+        "first_name": "Bat",
+        "last_name": "Man",
+        "numbers": {
+            "mobile": "123-456-7890",
+            "home": "987-654-3210"
+        }
+    },
+    {
+        "first_name": "Sponge",
+        "last_name": "Bob",
+        "numbers": {
+            "work": "350-103-1495"
+        }
+    },
+    {
+        "first_name": "Peppa",
+        "last_name": "Pig",
+        "numbers": {
+            "work": "350-103-1495",
+            "home": "386-194-1919",
+            "mobile": "928-389-1938"
+        }
+    }
+]
