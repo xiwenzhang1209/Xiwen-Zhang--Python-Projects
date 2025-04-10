@@ -1,5 +1,0 @@
-pytest
-pytest-clarity
-pytest-pretty
-iotest-grader
-pytest-mock
